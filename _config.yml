@@ -1,9 +1,9 @@
 # site settings
-title: Moss Bank se marie!
-subtitle: by Andy and Tash
+title: We're getting married in York!
+subtitle: créé par Andy et Natacha
 email: andyandtashwedding@gmail.com
 description: Rejoignez-nous le jour où on se dit oui
-baseurl: "/aweddinginyork/fr/" # the subpath of your site, e.g. /blog
+baseurl: "/aweddinginyork_fr" # the subpath of your site, e.g. /blog
 url: "https://natseg.github.io" # the base hostname & protocol for your site
 author: Andy and Tash
 street_address: 138 Haxby Road

@@ -1,7 +1,7 @@
 ---
-title: Stay in York
+title: Dormir à York
 layout: landing
-description: Our house is not big enough
+description: Notre maison n'est pas assez grande
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

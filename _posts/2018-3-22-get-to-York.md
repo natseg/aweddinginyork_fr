@@ -5,30 +5,60 @@ description: Avions, trains, bicyclettes
 image: assets/images/pic08.jpg
 ---
 
-## By Plane
+## En avion
 
-#### [From Lyon](#lyon) <--- Click me
-#### [From London](#london)
-#### [From Béziers](#beziers)
+#### [De Lyon](#avion-lyon) <--- Cliquez ici
+#### [De Béziers](#avion-beziers)
 
 <a href='https://www.google.co.uk/maps/search/international+airports+near+York/@53.9761599,-1.6333861,9z/data=!4m3!2m2!5m1!10e2' target='_blank' rel='noopener noreferrer'>
 ![York Airports]({{site.url}}{{site.baseurl}}/assets/images/york_airports.jpg)
 </a>
 
-<a name="lyon">Lyon</a>
+<a name="avion-lyon">Lyon</a>
 
-Flybe operates a direct service from Saint Exupéry
+Flybe dessert Manchester au départ de Saint Exupéry
 https://www.flybe.com/lyon-to-manchester/
 
+<a name="avion-beziers">Béziers</a>
 
-<a name="beziers">Béziers</a>
+Il y a bien un vol direct de Béziers à Manchester, mais il ne vole que les:
+- Mardi
+- Samedi
 
-While there is a direct flight from Béziers to Manchester, it only operates on
-- Tuesdays
-- Saturdays
+Atterrir à Londres et prendre un train jusqu'à York peut s'avérer plus pratique en fonction des besoins:
 
-It's generally easier (but longer) to fly to London and then take a train to York.
+* Avion: Béziers -> London Luton Airport (2h)
+Allez à Londres (navette + train ou bus), profitez de Londres
+<a href='https://www.london-luton.co.uk/to-and-from-lla'>
+Luton Airport - Londres
+</a>
 
-Plane: Béziers -> London Luton Airport (2h)
-Bus: London Luton Airport -> London Luton Train Station (15min)
-Train: London Luton Train Station -> York Train Station
+* Train: London Kings Cross -> York (2h)
+
+Pour réserver vos trains à l'avance (fortement recommandé):
+https://www.thetrainline.com/
+Tapez: 
+'London Kings Cross' puis 'York' et l'application fera le travail pour vous.
+Vérifiez le nombre de changements. Dans l'idéal 0.
+
+
+## En train
+
+Eurostar: 
+Peut être reservé un maximum de six mois à l'avance
+
+#### De Lyon
+
+Le lien ci-dessous ne deviendra actif que le 04 novembre 2018.
+
+<a href='https://booking.eurostar.com/fr-fr/train-search/standard/8772319/7015400?adult=2&outbound-date=2019-05-03&inbound-date=2019-05-05'>
+Deux adultes au départ de Lyon du 3 au 5 mai 2019
+</a>
+
+#### De Béziers
+
+Le lien ci-dessous ne deviendra actif que le 02 février 2018.
+
+<a href='https://booking.eurostar.com/fr-fr/train-search/standard/8778100/7015400?adult=2&outbound-date=2019-05-03&inbound-date=2019-05-05'>
+Deux adultes au départ de Béziers du 3 au 5 mai 2019
+</a>
