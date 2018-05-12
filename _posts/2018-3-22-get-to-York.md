@@ -36,11 +36,14 @@ Luton Airport - Londres
 * Train: London Kings Cross -> York (2h)
 
 Pour réserver vos trains à l'avance (fortement recommandé):
-https://www.thetrainline.com/
+* https://www.thetrainline.com/
+
 Tapez: 
-'London Kings Cross' puis 'York' et l'application fera le travail pour vous.
-Vérifiez le nombre de changements. Dans l'idéal 0.
- <img src="assets/train.png" alt="" />
+
+* 'London Kings Cross' puis 'York' et l'application fera le travail pour vous.
+* Vérifiez le nombre de changements. Dans l'idéal 0.
+ 
+ <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />
 
 ## En train
 
