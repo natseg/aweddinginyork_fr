@@ -1,0 +1,29 @@
+# site settings
+title: Moss Bank se marie!
+subtitle: by Andy and Tash
+email: andyandtashwedding@gmail.com
+description: Rejoignez-nous le jour où on se dit oui
+baseurl: "/aweddinginyork/fr/" # the subpath of your site, e.g. /blog
+url: "https://natseg.github.io" # the base hostname & protocol for your site
+author: Andy and Tash
+street_address: 138 Haxby Road
+city: York
+state: North Yorkshire
+zip_code: YO31 8JN
+country: Royaume Uni
+phone: (+44) 7445673908
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+facebook_url: https://www.facebook.com/AndyTashs-Wedding-201577567122055/
+instagram_url: https://www.instagram.com/andyandtashwedding/
+pinterest_url: https://www.pinterest.fr/natanuts/wedding-3/
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
