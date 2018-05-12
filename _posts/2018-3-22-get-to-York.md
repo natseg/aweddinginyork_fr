@@ -40,7 +40,7 @@ https://www.thetrainline.com/
 Tapez: 
 'London Kings Cross' puis 'York' et l'application fera le travail pour vous.
 Vérifiez le nombre de changements. Dans l'idéal 0.
-
+ <img src="assets/train.png" alt="" />
 
 ## En train
 
