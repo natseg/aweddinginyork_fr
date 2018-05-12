@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: On se marie à York
+landing-title: We're getting married in York
 description: null
 image: null
 author: null
 ---
 
-We are very much in love and we love you so please join us in celebrating our union on this day made special by you being there.
+Nous nous aimons vraiment beaucoup alors rejoignez-nous pour célébrer notre union que vous rendrez unique.
