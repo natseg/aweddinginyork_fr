@@ -33,17 +33,8 @@ Allez à Londres (navette + train ou bus), profitez de Londres
 Luton Airport - Londres
 </a>
 
-* Train: London Kings Cross -> York (2h)
-
-Pour réserver vos trains à l'avance (fortement recommandé):
-* https://www.thetrainline.com/
-
-Tapez: 
-
-* 'London Kings Cross' puis 'York' et l'application fera le travail pour vous.
-* Vérifiez le nombre de changements. Dans l'idéal 0.
- 
- <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />
+* Train: 
+#### [De Londres](#train-londres)
 
 ## En train
 
@@ -65,3 +56,18 @@ Le lien ci-dessous ne deviendra actif que le 02 février 2018.
 <a href='https://booking.eurostar.com/fr-fr/train-search/standard/8778100/7015400?adult=2&outbound-date=2019-05-03&inbound-date=2019-05-05'>
 Deux adultes au départ de Béziers du 3 au 5 mai 2019
 </a>
+
+<a name="train-londres">De Londres</a>
+
+Virgin trains et Grand Central offrent des trains directs qui prennent entre 1h40 et 2h.
+* Train: London Kings Cross -> York (2h)
+
+Pour réserver vos trains à l'avance (fortement recommandé):
+* https://www.thetrainline.com/
+
+Tapez: 
+
+* 'London Kings Cross' puis 'York' et l'application fera le travail pour vous.
+* Vérifiez le nombre de changements. Dans l'idéal 0.
+ 
+ <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />
