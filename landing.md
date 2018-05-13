@@ -13,78 +13,81 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Hotels</h2>
+			<h2>Hôtels</h2>
 		</header>
-		As much as we would love to host all of you, we cannot do it short of putting all of you in a very uncomfortable state.   
+		Nous aimerions pouvoir vous recevoir tous, mais franchement à moins de pousser les murs et de camper très inconfortablement, ce n'est pas possible.   
     <br/>
-    This is where you will find the best options to stay in York based on distance and price.
+    C'est sur cette page que vous trouverez quelques options pour dormir sur York avec une idée du prix et de la distance.
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-  		<a href="generic.html" class="image">
-  			<img src="assets/images/judgeslogding.jpg" alt="" data-position="center center" />
+  		<a target='_blank' rel='noreferrer noopener' href="https://www.thwaites.co.uk/hotels-and-inns/inns/judges-lodging-at-york/#" class="image">
+  			<img src="{{site.url}}{{site.baseurl}}/assets/images/judgeslodging.jpg" alt="" data-position="center center" />
   		</a>
   		<div class="content">
   			<div class="inner">
   				<header class="major">
   					<h3>£££ - The Judge's Lodging</h3>
   				</header>
-  				<p>Location: 1 min walk from the garden</p>
-  				<p>Price: £120-130/night</p>
+  				<p>Distance: 1 min de marche du jardin</p>
+  				<p>Prix: 120-130 £/nuit</p>
   				<ul class="actions">
-  					<li><a target='_blank' rel='noreferrer noopener' href="https://www.thwaites.co.uk/hotels-and-inns/inns/judges-lodging-at-york/#" class="button">Learn more</a></li>
+  					<li><a target='_blank' rel='noreferrer noopener' href="https://www.thwaites.co.uk/hotels-and-inns/inns/judges-lodging-at-york/#" class="button">En savoir plus</a></li>
   				</ul>
   			</div>
   		</div>
   	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+  		<a target='_blank' rel='noreferrer noopener' href="https://www.travelodge.co.uk/hotels/422/York-Central-Micklegate-hotel" class="image">
+  			<img src="assets/images/travelodgemicklegate.jpg" alt="" data-position="top center" />
+  		</a>
+  		<div class="content">
+  			<div class="inner">
+  				<header class="major">
+  					<h3>££ - Travelodge Micklegate</h3>
+  				</header>
+  				<p>Distance: Micklegate, 10 minutes de marche du jardin</p>
+  				<p>Prix: 90-110£/nuit</p>
+  				<ul class="actions">
+  					<li><a target='_blank' rel='noreferrer noopener' href="https://www.travelodge.co.uk/hotels/422/York-Central-Micklegate-hotel" class="button">En savoir plus</a></li>
+  				</ul>
+  			</div>
+  		</div>
+  	</section>
+  	<section>
+  		<a target='_blank' rel='noreferrer noopener' href="https://www.thefortyork.co.uk/" class="image">
+  			<img src="assets/images/fortyork.jpg" alt="" data-position="top center" />
+  		</a>
+  		<div class="content">
+  			<div class="inner">
+  				<header class="major">
+  					<h3>£ - L'auberge de jeunesse de luxe Fort</h3>
+  				</header>
+  				<p>Distance: Stonegate, 5 minutes de marche du jardin</p>
+  				<p>Prix: 75-90£/nuit</p>
+  				<ul class="actions">
+  					<li><a target='_blank' rel='noreferrer noopener' href="https://www.thefortyork.co.uk/" class="button">En savoir plus</a></li>
+  				</ul>
+  			</div>
+  		</div>
+  	</section>
+  </section>
+  
+  <!-- Three -->
+  <section id="three">
+  	<div class="inner">
+  		<header class="major">
+  			<h2>Et beaucoup d'autres options</h2>
+  		</header>
+  		<p>York offre beaucoup d'endroits où dormir, notamment des B&Bs charmants avec très peu de chambres.</p>
+  		<p>Nous vous offrons quelques suggestions, mais si vous cherchez par vous-même - le seul risque est de trouver une perle!</p>
+  		<ul class="actions">
+  			<li><a href="https://www.google.co.uk/search?q=rooms+in+york" class="button next">Chercher une perle</a></li>
+  		</ul>
+  	</div>
+  </section>
 
 </div>
