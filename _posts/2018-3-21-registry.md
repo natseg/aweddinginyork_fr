@@ -16,3 +16,20 @@ Et même si vous habitez au Royaume-Uni, votre présence est tout ce que nous po
 Cheesy? Oui. 
 
 Hypocrite? Non.
+
+**Liste de mariage**
+
+[Amazon](https://www.amazon.co.uk/wedding/andrew-tomkinson-natacha-segala-york-may-2019/registry/13INH5WHSJWYE)
+
+Contribuer à notre lune de miel en Scandinavie ou à nos travaux de rénovation:
+
+Mme Natacha SÉGALA 
+
+Code B.I.C	
+
+BOUS FRPP XXX
+
+Code I.B.A.N
+
+FR76 4061 8802 6500 0407 2968 388
+
